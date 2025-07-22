@@ -12,3 +12,12 @@ An interactive and visually modern AI Chat Bot web app built using HTML, JavaScr
 🗨 Editable Bot Name for personalization
 ♻ Clear chat history with one click
 
+## 🛠 Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| HTML | Markup for layout |
+| JavaScript | Logic & API handling |
+| Tailwind CSS | Styling & responsiveness |
+| Marked.js | Markdown rendering |
+| Google Gemini API | AI-powered responses |
